@@ -1,0 +1,9 @@
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\bin\Debug\Crud_With_Id_Identity.exe.config
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\bin\Debug\Crud_With_Id_Identity.exe
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\bin\Debug\Crud_With_Id_Identity.pdb
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\obj\Debug\Crud_With_Id_Identity.csprojAssemblyReference.cache
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\obj\Debug\Crud_With_Id_Identity.Form1.resources
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\obj\Debug\Crud_With_Id_Identity.Properties.Resources.resources
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\obj\Debug\Crud_With_Id_Identity.csproj.GenerateResource.cache
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\obj\Debug\Crud_With_Id_Identity.exe
+C:\Users\Sheeraz\source\repos\Crud_With_Id_Identity\Crud_With_Id_Identity\obj\Debug\Crud_With_Id_Identity.pdb
